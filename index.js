@@ -2,11 +2,11 @@
 
 const shell = require('shelljs');
 const _ = require('lodash');
-const fs = require("fs");
+const fs = require('fs');
 
 console.log('----SCRIPT-START---');
 
-var stdinBuffer = fs.readFileSync(0);
-eval(stdinBuffer.toString())
+const stdinBuffer = fs.readFileSync(0);
+eval(stdinBuffer.toString());
 
 console.log('----SCRIPT-END---');
