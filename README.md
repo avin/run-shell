@@ -16,5 +16,5 @@ EOF
 
 ## Variables
 
-`shell` - https://www.npmjs.com/package/shelljs
-`_` - https://www.npmjs.com/package/lodash
+* `shell` - https://www.npmjs.com/package/shelljs
+* `_` - https://www.npmjs.com/package/lodash
